@@ -1,5 +1,5 @@
 /*!
- * accounting.js v0.4.2
+ * accounting.js v0.4.3 - modified by Bluecore to support formatting prices as rupees, per https://github.com/openexchangerates/accounting.js/pull/127
  * Copyright 2014 Open Exchange Rates
  *
  * Freely distributable under the MIT license.
