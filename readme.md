@@ -17,6 +17,8 @@ Maintained by [Open Exchange Rates](https://openexchangerates.org "Free reliable
 
 ## Changelog
 
+**v0.4.3** - Support formatting prices as rupees
+
 **v0.4.2** - Added bower.json
 
 **v0.4.1** - Alias `accounting.formatNumber()` as `accounting.format()`
